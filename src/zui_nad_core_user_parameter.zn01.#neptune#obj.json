@@ -1,0 +1,410 @@
+[
+  {
+    "field_id": "00001",
+    "field_name": "HTML5 Document",
+    "field_type": "HTML5 DOC",
+    "field_pos": "00001",
+    "field_parent": "00000",
+    "is_container": "X",
+    "calculate_date": 0,
+    "is_view": "X",
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00002",
+    "field_name": "oShell",
+    "field_type": "UM5_SHELL",
+    "field_pos": "00002",
+    "field_parent": "00001",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00003",
+    "field_name": "oApp",
+    "field_type": "UM5_APP",
+    "field_pos": "00003",
+    "field_parent": "00002",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00004",
+    "field_name": "oPageStart",
+    "field_type": "UM5_PAGE",
+    "field_pos": "00004",
+    "field_parent": "00003",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00010",
+    "field_name": "oPageHidden",
+    "field_type": "UM5_PAGE",
+    "field_pos": "00020",
+    "field_parent": "00003",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00011",
+    "field_name": "GetData",
+    "field_type": "UM5_AJAX",
+    "field_pos": "00021",
+    "field_parent": "00010",
+    "event_id": "GET_DATA",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00012",
+    "field_name": "Init",
+    "field_type": "SCRIPT",
+    "field_pos": "00023",
+    "field_parent": "00010",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00013",
+    "field_name": "footerStart",
+    "field_type": "UM5_BAR",
+    "field_pos": "00036",
+    "field_parent": "00004",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00014",
+    "field_name": "Right",
+    "field_type": "UM5_BARCON",
+    "field_pos": "00037",
+    "field_parent": "00013",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00015",
+    "field_name": "butSave",
+    "field_type": "UM5_BUTTON",
+    "field_pos": "00038",
+    "field_parent": "00014",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00016",
+    "field_name": "oPageData",
+    "field_type": "UM5_PAGE",
+    "field_pos": "00005",
+    "field_parent": "00003",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00017",
+    "field_name": "ListF4Werks",
+    "field_type": "UM5_SELDIA",
+    "field_pos": "00008",
+    "field_parent": "00016",
+    "is_container": "X",
+    "event_id": "GET_LIST_T001W",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00018",
+    "field_name": "ItemF4Werks",
+    "field_type": "UM5_OBJITM",
+    "field_pos": "00019",
+    "field_parent": "00017",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00019",
+    "field_name": "ListF4Ekorg",
+    "field_type": "UM5_SELDIA",
+    "field_pos": "00009",
+    "field_parent": "00016",
+    "is_container": "X",
+    "event_id": "GET_LIST_T024E",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00020",
+    "field_name": "ItemF4Ekorg",
+    "field_type": "UM5_OBJITM",
+    "field_pos": "00018",
+    "field_parent": "00019",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00021",
+    "field_name": "Save",
+    "field_type": "UM5_AJAX",
+    "field_pos": "00022",
+    "field_parent": "00010",
+    "event_id": "SAVE",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00022",
+    "field_name": "tabParam",
+    "field_type": "UM5_TABLE",
+    "field_pos": "00024",
+    "field_parent": "00004",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00023",
+    "field_name": "coltabParamPARID",
+    "field_type": "UM5_COLUMN",
+    "field_pos": "00026",
+    "field_parent": "00022",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00024",
+    "field_name": "coltabParamPARVA",
+    "field_type": "UM5_COLUMN",
+    "field_pos": "00031",
+    "field_parent": "00022",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00025",
+    "field_name": "coltabParamPARTXT",
+    "field_type": "UM5_COLUMN",
+    "field_pos": "00030",
+    "field_parent": "00022",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00026",
+    "field_name": "colItemtabParam",
+    "field_type": "UM5_COLITM",
+    "field_pos": "00032",
+    "field_parent": "00022",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00027",
+    "field_name": "intabParamPARID",
+    "field_type": "UM5_INPUT",
+    "field_pos": "00033",
+    "field_parent": "00026",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00028",
+    "field_name": "intabParamPARVA",
+    "field_type": "UM5_INPUT",
+    "field_pos": "00035",
+    "field_parent": "00026",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00029",
+    "field_name": "intabParamPARTXT",
+    "field_type": "UM5_INPUT",
+    "field_pos": "00034",
+    "field_parent": "00026",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00030",
+    "field_name": "ListF4Param",
+    "field_type": "UM5_SELDIA",
+    "field_pos": "00006",
+    "field_parent": "00016",
+    "is_container": "X",
+    "event_id": "GET_LIST_TPARAT",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00031",
+    "field_name": "ItemF4Param",
+    "field_type": "UM5_OBJITM",
+    "field_pos": "00007",
+    "field_parent": "00030",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00032",
+    "field_name": "toolParam",
+    "field_type": "UM5_TOOLBA",
+    "field_pos": "00025",
+    "field_parent": "00022",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00033",
+    "field_name": "toolParamTitle",
+    "field_type": "UM5_TEXT",
+    "field_pos": "00027",
+    "field_parent": "00032",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00034",
+    "field_name": "toolParamSpacer",
+    "field_type": "UM5_TOOLSE",
+    "field_pos": "00028",
+    "field_parent": "00032",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00035",
+    "field_name": "toolParamAdd",
+    "field_type": "UM5_BUTTON",
+    "field_pos": "00029",
+    "field_parent": "00032",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00036",
+    "field_name": "butCancel",
+    "field_type": "UM5_BUTTON",
+    "field_pos": "00039",
+    "field_parent": "00014",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00037",
+    "field_name": "ListF4Ekgrp",
+    "field_type": "UM5_SELDIA",
+    "field_pos": "00010",
+    "field_parent": "00016",
+    "is_container": "X",
+    "event_id": "GET_LIST_T024",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00038",
+    "field_name": "ItemF4Ekgrp",
+    "field_type": "UM5_OBJITM",
+    "field_pos": "00017",
+    "field_parent": "00037",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00039",
+    "field_name": "ListF4Vkorg",
+    "field_type": "UM5_SELDIA",
+    "field_pos": "00011",
+    "field_parent": "00016",
+    "is_container": "X",
+    "event_id": "GET_LIST_TVKOT",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00040",
+    "field_name": "ItemF4Vkorg",
+    "field_type": "UM5_OBJITM",
+    "field_pos": "00016",
+    "field_parent": "00039",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00041",
+    "field_name": "ListF4Vtweg",
+    "field_type": "UM5_SELDIA",
+    "field_pos": "00012",
+    "field_parent": "00016",
+    "is_container": "X",
+    "event_id": "GET_LIST_TVTWT",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00042",
+    "field_name": "ItemF4Vtweg",
+    "field_type": "UM5_OBJITM",
+    "field_pos": "00015",
+    "field_parent": "00041",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00043",
+    "field_name": "ListF4Spart",
+    "field_type": "UM5_SELDIA",
+    "field_pos": "00013",
+    "field_parent": "00016",
+    "is_container": "X",
+    "event_id": "GET_LIST_TSPAT",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00044",
+    "field_name": "ItemF4Spart",
+    "field_type": "UM5_OBJITM",
+    "field_pos": "00014",
+    "field_parent": "00043",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00045",
+    "field_name": "Resources",
+    "field_type": "RESOURCES",
+    "field_pos": "00040",
+    "field_parent": "00000",
+    "is_container": "X",
+    "calculate_date": 0,
+    "is_view": "X",
+    "extend_id": "00000"
+  }
+]

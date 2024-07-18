@@ -1,0 +1,37 @@
+[
+  {
+    "field_id": "00011",
+    "version": "0001",
+    "model_id": "00005",
+    "model": "formParam",
+    "receive": "X"
+  },
+  {
+    "field_id": "00011",
+    "version": "0001",
+    "model_id": "00022",
+    "model": "tabParam",
+    "receive": "X"
+  },
+  {
+    "field_id": "00021",
+    "version": "0001",
+    "model_id": "00005",
+    "model": "formParam",
+    "send": "X"
+  },
+  {
+    "field_id": "00021",
+    "version": "0001",
+    "model_id": "00022",
+    "model": "tabParam",
+    "send": "X"
+  },
+  {
+    "field_id": "00041",
+    "version": "0001",
+    "model_id": "00022",
+    "model": "tabParam",
+    "send": "X"
+  }
+]

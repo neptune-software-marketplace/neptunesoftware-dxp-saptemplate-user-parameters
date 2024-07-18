@@ -1,0 +1,15 @@
+[
+  {
+    "version": "0001",
+    "app_type": "A",
+    "clsname": "ZCL_NAD_CORE_USER_PARAMETER",
+    "title": "User Parameters",
+    "descr": "User Parameters",
+    "descr_mc": "USER PARAMETERS",
+    "library": "5",
+    "ui5_m": "X",
+    "icfnode": "SDK",
+    "origin": "000000000",
+    "sqlite_type": 0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "field_id": "00017",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_T001W",
+    "binding_root_field_id": "00000"
+  },
+  {
+    "field_id": "00019",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_T024E",
+    "binding_root_field_id": "00000"
+  },
+  {
+    "field_id": "00022",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_PARAMETERS",
+    "binding_root_field_id": "00000"
+  },
+  {
+    "field_id": "00030",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_TPARAT",
+    "binding_root_field_id": "00000"
+  },
+  {
+    "field_id": "00037",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_T024",
+    "binding_root_field_id": "00000"
+  },
+  {
+    "field_id": "00039",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_TVKOT",
+    "binding_root_field_id": "00000"
+  },
+  {
+    "field_id": "00041",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_TVTWT",
+    "binding_root_field_id": "00000"
+  },
+  {
+    "field_id": "00043",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_TSPAT",
+    "binding_root_field_id": "00000"
+  }
+]

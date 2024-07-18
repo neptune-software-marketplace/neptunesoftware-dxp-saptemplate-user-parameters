@@ -1,0 +1,66 @@
+[
+  {
+    "field_id": "00017",
+    "version": "0001",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_T001W",
+    "binding_root_field_id": "00000"
+  },
+  {
+    "field_id": "00019",
+    "version": "0001",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_T024E",
+    "binding_root_field_id": "00000"
+  },
+  {
+    "field_id": "00022",
+    "version": "0001",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_PARAMETERS",
+    "binding_root_field_id": "00000"
+  },
+  {
+    "field_id": "00030",
+    "version": "0001",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_TPARAT",
+    "binding_root_field_id": "00000"
+  },
+  {
+    "field_id": "00037",
+    "version": "0001",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_T024",
+    "binding_root_field_id": "00000"
+  },
+  {
+    "field_id": "00039",
+    "version": "0001",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_TVKOT",
+    "binding_root_field_id": "00000"
+  },
+  {
+    "field_id": "00041",
+    "version": "0001",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_TVTWT",
+    "binding_root_field_id": "00000"
+  },
+  {
+    "field_id": "00043",
+    "version": "0001",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "IT_TSPAT",
+    "binding_root_field_id": "00000"
+  }
+]

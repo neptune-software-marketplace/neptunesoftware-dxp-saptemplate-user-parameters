@@ -1,0 +1,452 @@
+[
+  {
+    "field_id": "00004",
+    "attribute": "showHeader",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00013",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "setFooter"
+  },
+  {
+    "field_id": "00014",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentRight"
+  },
+  {
+    "field_id": "00015",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00015",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Save"
+  },
+  {
+    "field_id": "00015",
+    "attribute": "type",
+    "grouping": "Properties",
+    "value": "Emphasized"
+  },
+  {
+    "field_id": "00017",
+    "attribute": "ajaxSuccess",
+    "grouping": "Events",
+    "value": "ListF4Werks.open();"
+  },
+  {
+    "field_id": "00017",
+    "attribute": "confirm",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00017",
+    "attribute": "liveChange",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00017",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Plant"
+  },
+  {
+    "field_id": "00018",
+    "attribute": "intro",
+    "grouping": "Properties",
+    "value": "{IT_T001W-WERKS}"
+  },
+  {
+    "field_id": "00018",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "{IT_T001W-NAME1}"
+  },
+  {
+    "field_id": "00019",
+    "attribute": "ajaxSuccess",
+    "grouping": "Events",
+    "value": "ListF4Ekorg.open();"
+  },
+  {
+    "field_id": "00019",
+    "attribute": "confirm",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00019",
+    "attribute": "liveChange",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00019",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Plant"
+  },
+  {
+    "field_id": "00020",
+    "attribute": "intro",
+    "grouping": "Properties",
+    "value": "{IT_T024E-EKORG}"
+  },
+  {
+    "field_id": "00020",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "{IT_T024E-EKOTX}"
+  },
+  {
+    "field_id": "00022",
+    "attribute": "fixedLayout",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00022",
+    "attribute": "growing",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00022",
+    "attribute": "growingScrollToLoad",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00022",
+    "attribute": "growingThreshold",
+    "grouping": "Properties",
+    "value": "100"
+  },
+  {
+    "field_id": "00023",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Parameter"
+  },
+  {
+    "field_id": "00023",
+    "attribute": "width",
+    "grouping": "Properties",
+    "value": "200px"
+  },
+  {
+    "field_id": "00024",
+    "attribute": "demandPopin",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00024",
+    "attribute": "minScreenWidth",
+    "grouping": "Properties",
+    "value": "Phone"
+  },
+  {
+    "field_id": "00024",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Value"
+  },
+  {
+    "field_id": "00024",
+    "attribute": "width",
+    "grouping": "Properties",
+    "value": "200px"
+  },
+  {
+    "field_id": "00025",
+    "attribute": "demandPopin",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00025",
+    "attribute": "minScreenWidth",
+    "grouping": "Properties",
+    "value": "Tablet"
+  },
+  {
+    "field_id": "00025",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Description"
+  },
+  {
+    "field_id": "00027",
+    "attribute": "enabled",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00027",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{IT_PARAMETERS-PARID}"
+  },
+  {
+    "field_id": "00028",
+    "attribute": "showValueHelp",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00028",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{IT_PARAMETERS-PARVA}"
+  },
+  {
+    "field_id": "00028",
+    "attribute": "valueHelpRequest",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00029",
+    "attribute": "enabled",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00029",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{IT_PARAMETERS-PARTXT}"
+  },
+  {
+    "field_id": "00030",
+    "attribute": "ajaxSuccess",
+    "grouping": "Events",
+    "value": "ListF4Param.open();"
+  },
+  {
+    "field_id": "00030",
+    "attribute": "confirm",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00030",
+    "attribute": "liveChange",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00030",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Parameter"
+  },
+  {
+    "field_id": "00031",
+    "attribute": "intro",
+    "grouping": "Properties",
+    "value": "{IT_TPARAT-PARTEXT}"
+  },
+  {
+    "field_id": "00031",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "{IT_TPARAT-PARAMID}"
+  },
+  {
+    "field_id": "00032",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "HeaderToolbar"
+  },
+  {
+    "field_id": "00033",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Parameters"
+  },
+  {
+    "field_id": "00035",
+    "attribute": "icon",
+    "grouping": "Properties",
+    "value": "sap-icon://add"
+  },
+  {
+    "field_id": "00035",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00036",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00036",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Cancel"
+  },
+  {
+    "field_id": "00037",
+    "attribute": "ajaxSuccess",
+    "grouping": "Events",
+    "value": "ListF4Ekgrp.open();"
+  },
+  {
+    "field_id": "00037",
+    "attribute": "confirm",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00037",
+    "attribute": "liveChange",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00037",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Plant"
+  },
+  {
+    "field_id": "00038",
+    "attribute": "intro",
+    "grouping": "Properties",
+    "value": "{IT_T024-EKGRP}"
+  },
+  {
+    "field_id": "00038",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "{IT_T024-EKNAM}"
+  },
+  {
+    "field_id": "00039",
+    "attribute": "ajaxSuccess",
+    "grouping": "Events",
+    "value": "ListF4Vkorg.open();"
+  },
+  {
+    "field_id": "00039",
+    "attribute": "confirm",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00039",
+    "attribute": "liveChange",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00039",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Sales Organization"
+  },
+  {
+    "field_id": "00040",
+    "attribute": "intro",
+    "grouping": "Properties",
+    "value": "{IT_TVKOT-VKORG}"
+  },
+  {
+    "field_id": "00040",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "{IT_TVKOT-VTEXT}"
+  },
+  {
+    "field_id": "00041",
+    "attribute": "ajaxSuccess",
+    "grouping": "Events",
+    "value": "ListF4Vtweg.open();"
+  },
+  {
+    "field_id": "00041",
+    "attribute": "confirm",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00041",
+    "attribute": "liveChange",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00041",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Distribution Channel"
+  },
+  {
+    "field_id": "00042",
+    "attribute": "intro",
+    "grouping": "Formatter",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00042",
+    "attribute": "intro",
+    "grouping": "Properties",
+    "value": "{IT_TVTWT-VKORG},{IT_TVTWT-VTWEG}"
+  },
+  {
+    "field_id": "00042",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "{IT_TVTWT-VTEXT}"
+  },
+  {
+    "field_id": "00043",
+    "attribute": "ajaxSuccess",
+    "grouping": "Events",
+    "value": "ListF4Spart.open();"
+  },
+  {
+    "field_id": "00043",
+    "attribute": "confirm",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00043",
+    "attribute": "liveChange",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00043",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Plant"
+  },
+  {
+    "field_id": "00044",
+    "attribute": "intro",
+    "grouping": "Properties",
+    "value": "{IT_TSPAT-SPART}"
+  },
+  {
+    "field_id": "00044",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "{IT_TSPAT-VTEXT}"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "field_id": "00017",
+    "version": "0001",
+    "language": "D",
+    "attribute": "title",
+    "field_label": "Werk"
+  },
+  {
+    "field_id": "00019",
+    "version": "0001",
+    "language": "D",
+    "attribute": "title",
+    "field_label": "Werk"
+  },
+  {
+    "field_id": "00030",
+    "version": "0001",
+    "language": "D",
+    "attribute": "title",
+    "field_label": "Werk"
+  },
+  {
+    "field_id": "00037",
+    "version": "0001",
+    "language": "D",
+    "attribute": "title",
+    "field_label": "Werk"
+  },
+  {
+    "field_id": "00039",
+    "version": "0001",
+    "language": "D",
+    "attribute": "title",
+    "field_label": "Verkaufsorganisation"
+  },
+  {
+    "field_id": "00041",
+    "version": "0001",
+    "language": "D",
+    "attribute": "title",
+    "field_label": "Vertriebsweg"
+  },
+  {
+    "field_id": "00043",
+    "version": "0001",
+    "language": "D",
+    "attribute": "title",
+    "field_label": "Werk"
+  }
+]
